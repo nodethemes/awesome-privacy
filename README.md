@@ -150,6 +150,7 @@
 - [Cabin](https://withcabin.com) - Privacy-first, carbon conscious web analytics.
 - [GoatCounter](https://www.goatcounter.com/) - Privacy aware, lightweight and open-source analytics platform.
 - [Matomo](https://matomo.org/) - Google Analytics alternative that protects your data and your customers' privacy.
+- [NodeThemes Analytics AI](https://github.com/nodethemes/nodethemes-analytics-ai) - Cookieless, self-hosted analytics plugin for WordPress that keeps data in your own database and never stores IP addresses; replaces Google Analytics on WordPress sites (GPL-2.0).
 - [Nullitics](https://nullitics.com/) - Zero-effort open-source cheap analytics.
 - [Pirsch](https://pirsch.io/) - Pirsch is a simple, privacy-friendly, open-source alternative to Google Analytics — lightweight, cookie-free and easily integrated into any website or backend.
 - [Plausible](https://plausible.io/) - Simple and privacy-friendly alternative to Google Analytics.
